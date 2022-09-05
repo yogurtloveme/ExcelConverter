@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExcelConverter": {
+      "commandName": "Project",
+      "workingDirectory": "Y:\\tmp\\ExcelConverter\\ExcelConverter"
+    }
+  }
+}
